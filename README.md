@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurora Rofena</h1>
 <h3 align="center">A PhD Student in Artificial Intelligence</h3>
 
-- 📫 How to reach me **aurora.rofena@unicampus.it**
+📫 reach me using **aurora.rofena@unicampus.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
