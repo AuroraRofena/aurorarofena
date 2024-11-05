@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurora Rofena</h1>
-<h3 align="center">A PhD Student in Artificial Intelligence</h3>
+<h3 align="center">PhD Student in Artificial Intelligence</h3>
 
 📫 reach me using **aurora.rofena@unicampus.it**
 
